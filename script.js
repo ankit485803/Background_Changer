@@ -18,3 +18,6 @@ modeBtn.addEventListener("click", () => {
    
    console.log(currMode);
 });
+
+
+console.log("........................................... Happy ❤❤ Coding............................")
